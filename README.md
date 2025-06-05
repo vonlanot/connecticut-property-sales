@@ -18,6 +18,7 @@ import kagglehub
 path = kagglehub.dataset_download("joebeachcapital/house-prices-2001-2020")
 
 print("Path to dataset files:", path)
+```
 
 The data includes information on `Sale Amount`, `Assessed Value`, `Sales Ratio`, `List Year`, `Date Recorded`, `Town`, and critical `OPM remarks` which contain unstructured text descriptions of sale conditions. Note that detailed building square footage or property construction year are not directly available in this dataset. The `Location` column (containing geographical coordinates) is also sparsely populated.
 
