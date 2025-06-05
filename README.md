@@ -48,7 +48,6 @@ The data includes information on `Sale Amount`, `Assessed Value`, `Sales Ratio`,
         * **Iterative Refinement:** Multiple rounds of review and refinement were conducted on the 'Other/Uncategorized' entries to enhance accuracy and reduce ambiguity, demonstrating a rigorous approach to data quality.
     * **Outcome:** A new, highly valuable categorical column, `Sale_Remarks_Category`, was created, allowing for precise filtering and analysis of different sale types. The raw text data is now structured and ready for analytical insights.
 
-**Batch 3: Methodology (Remaining Phases) and Key Findings & Insights**
 ### 3. Exploratory Data Analysis (EDA)
 * **[To be updated upon completion of EDA]**
 * Analysis of data distributions for numerical features (`Sale Amount`, `Assessed Value`, `Sales Ratio`).
@@ -101,16 +100,8 @@ The data includes information on `Sale Amount`, `Assessed Value`, `Sales Ratio`,
 2.  **Open in Google Colab:**
     * Navigate to the cloned directory.
     * Open the `Connecticut_Real_Estate_Sales.ipynb` (or similar name) notebook in Google Colab.
-    * **[https://github.com/vonlanot/connecticut-property-sales/blob/main/Connecticut_Real_Estate_Sales.ipynb]**
+    * **https://github.com/vonlanot/connecticut-property-sales/blob/main/Connecticut_Real_Estate_Sales.ipynb**
 3.  **Run Cells:** Execute the notebook cells sequentially to reproduce the analysis.
-
-## Repository Structure
-
-.
-├── Connecticut_Real_Estate_Sales.ipynb
-├── README.md
-└── data/
-└── # Raw data downloaded by KaggleHub code in notebook
 
 ## Acknowledgements
 
@@ -118,5 +109,5 @@ The data includes information on `Sale Amount`, `Assessed Value`, `Sales Ratio`,
 
 ## Contact
 
-* [Von Ellesse M. Lanot] - [https://www.linkedin.com/in/von-ellesse-lanot-21a91897/] - [vonlanot@gmail.com]
-* Project Link: [https://github.com/vonlanot/connecticut-property-sales]
+* Von Ellesse M. Lanot - https://www.linkedin.com/in/von-ellesse-lanot-21a91897/ - vonlanot@gmail.com
+* Project Link: https://github.com/vonlanot/connecticut-property-sales
